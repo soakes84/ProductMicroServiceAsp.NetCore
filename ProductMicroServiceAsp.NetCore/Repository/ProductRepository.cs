@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using ProductMicroServiceAsp.NetCore.DbContexts;
-using ProductMicroServiceAsp.NetCore.Model;
+using ProductMicroServiceAsp.NetCore.Models;
 
 namespace ProductMicroServiceAsp.NetCore.Repository
 {

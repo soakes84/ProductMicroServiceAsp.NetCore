@@ -1,4 +1,4 @@
-﻿using ProductMicroServiceAsp.NetCore.Model;
+﻿using ProductMicroServiceAsp.NetCore.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
