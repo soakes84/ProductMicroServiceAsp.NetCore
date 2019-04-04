@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  productmicroserviceasp.netcore:
+    image: ${DOCKER_REGISTRY-}productmicroserviceaspnetcore
+    build:
+      context: .
+      dockerfile: ProductMicroServiceAsp.NetCore/Dockerfile
